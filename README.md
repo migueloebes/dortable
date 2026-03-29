@@ -1,5 +1,5 @@
 
-# UM SISTEMA OPERACIONAL CRIADO PELA WATER.BR
+# UM SISTEMA OPERACIONAL CRIADO PELO MIGUEL.
 Agradecemos pela preferência em nosso software, para instalar em seu computador principal, lembre-se destes requisitos
 - 2GB RAM
 - 20GB armazenamento
