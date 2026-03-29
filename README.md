@@ -1,2 +1,17 @@
-# dortable
-um sistema operacional baseado em unix, com objetivos de utilitário simples e trabalhos básicos, perfeito para produtividade
+
+# UM SISTEMA OPERACIONAL CRIADO PELA WATER.BR
+Agradecemos pela preferência em nosso software, para instalar em seu computador principal, lembre-se destes requisitos
+- 2GB RAM
+- 20GB armazenamento
+
+## 
+UM BREVE AVISO
+- Nosso sistema operacional NÃO é linux, ela é baseada em freeBSD (unix) 
+- Nosso sistema pode não oferecer drivers dependendo do tipo de driver (nvidia, AMD etc...) 
+## 
+
+PARA INSTALAR EM SEU COMPUTADOR:
+
+```bash
+  NÃO DISPONÍVEL
+```
