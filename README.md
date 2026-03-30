@@ -1,19 +1,24 @@
 
-# UM SISTEMA OPERACIONAL CRIADO PELO MIGUEL.
-Agradecemos pela preferência em nosso software, para instalar em seu computador principal, lembre-se destes requisitos
-- 2GB RAM
-- 20GB armazenamento
+# ONE OPERATIONAL SISTEM CREATED FOR MIGUEL.
+Thank you for choosing our software. To install it on your main computer, please remember the following requirements:
 
-## 
-UM BREVE AVISO
-- Nosso sistema operacional NÃO é linux, ela é baseada em freeBSD (unix) 
-- Nosso sistema pode não oferecer drivers dependendo do tipo de driver (nvidia, AMD etc...) 
-## 
+- 2 GB of RAM
+- 20 GB of storage
 
-PARA INSTALAR EM SEU COMPUTADOR:
+## A BRIEF WARNING
+
+- Our operating system is NOT Linux; it is based on FreeBSD (Unix).
+
+- Our system may not offer drivers, depending on the type (Nvidia, AMD, etc.).
+
+##
+
+TO INSTALL ON YOUR COMPUTER:
 
 ```bash
-  NÃO DISPONÍVEL
+
+NOT AVAILABLE
+
 ```
-##
-INFORMAMOS QUE VEJA O [Contrato com o Doortable](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20doortable) para melhores informações sobre sua segurança, privacidade e uso básico com o software
+
+## CONSULT THE [Doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20doortable) for more information about your security, privacy, and basic use of the software.
