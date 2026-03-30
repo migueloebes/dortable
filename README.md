@@ -9,8 +9,6 @@ Thank you for choosing our software. To install it on your main computer, please
 
 - Our operating system is NOT Linux; it is based on FreeBSD (Unix).
 
-- Our system may not offer drivers, depending on the type (Nvidia, AMD, etc.).
-
 ##
 
 TO INSTALL ON YOUR COMPUTER:
@@ -21,4 +19,5 @@ NOT AVAILABLE
 
 ```
 
-## CONSULT THE [doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20Doortable) for more information about your security, privacy, and basic use of the software.
+## 
+CONSULT THE [doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20Doortable) for more information about your security, privacy, and basic use of the software.
