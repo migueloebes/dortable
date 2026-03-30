@@ -15,3 +15,5 @@ PARA INSTALAR EM SEU COMPUTADOR:
 ```bash
   NÃO DISPONÍVEL
 ```
+##
+INFORMAMOS QUE VEJA O [Contrato com o Doortable](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20doortable) para melhores informações sobre sua segurança, privacidade e uso básico com o software
