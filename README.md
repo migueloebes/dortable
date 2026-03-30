@@ -21,4 +21,4 @@ NOT AVAILABLE
 
 ```
 
-## CONSULT THE [Doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20doortable) for more information about your security, privacy, and basic use of the software.
+## CONSULT THE (Doortable Agreement)[https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20Doortable) for more information about your security, privacy, and basic use of the software.
