@@ -4,8 +4,11 @@
 Aviso, caso sua residência ou sua empresa seja localizado no Brasil, deverá ler o artigo 15/211/2025, ECA DIGITAL sobre motivos de não atuarmos no brasil
 
 
+Water.br:
+O Doortable é um sistema híbrido, embora utilize parte do kernel unix, ele NÃO é código-livre 
+
 A.LICENÇA
-  A licença de nosso software não é de código aberto (open-source), devido não conseguirmos controlar a disponibilidade de nosso Kernel, dependências, drivers ou algo do gênero. Entretanto, o partes modificadas do kernel unix (freeBSD) serão postadas para auxílio
+  A licença de nosso software não é de código aberto, devido não conseguirmos controlar a disponibilidade de nosso Kernel, dependências, drivers ou algo do gênero. Entretanto, o partes modificadas do kernel unix (freeBSD) serão postadas para auxílio
 - Não será 100% do kernel que divulgaremos
 - Essa ação, é para desenvolvedores que querem ajudar nosso projeto, vejam e os melhore (ou corrija) partes que foram escritos errada, possa corrijir
 - Não permitiremos a distribuição do sistema MODIFICADO ou alterado, podendo perder a licença com o software (e não garantindo sua segurança)
@@ -13,28 +16,35 @@ A.LICENÇA
 
 B.SEU CONTEÚDO
   Muitos conteúdos pré-instalados do sistema operacional, serve para que você crie, armazene, compartilhe ou experencie dele, não podemos te acusar extrajudicialmente, vazar ou fazer alguma coisa com seus dados (desde que fique APENAS com serviços e servidores proprietários) apenas ISSO
-i. Nossos serviços NÃO poderam te induzir a usar de forma obrigatória (assinar algo de forma obrigatória) 
-ii. Sempre deixaremos que seja opcional, entretanto, caso desabilite ou desinstale, você NUNCA vai poder utilizar aquele software especifico
+i. Nossos serviços NÃO poderam te induzir a usar de forma obrigatória (assinar algo do gênero) 
+ii. Sempre deixaremos que seja opcional, entretanto, caso tenha permitido e desabilite ou desinstale, você NUNCA vai poder utilizar aquele software especifico
 iii. Alguns de nossos softwares NÃO são desinstalaveis, como no exemplo a loja de aplicativos, aplicativos essenciais de um computador (gerenciador de arquivos, configurações, painel, etc...)
 iv. Você está sujeito à receber notificações de atualizações do software principal (sistema operacioanl) fazendo o sistema verificar em todo momento
 - atualizações
 - atualizações de drivers
 - segurança
 
-C.CONTA DENTRO DO SISTEMA
+C.ATUALIZAÇÕES DO SOFTWARE E DRIVERS
+  O seu computador está submisso à receber diversos ataques de malwares ou falhas de segurança por falta de atualização. A nossa equipe desenvolveu atualizações automaticas ao reiniciar o computador, para GARANTIR que você fique seguro
+i. Nas atualizações:
+- NÃO podemos modificar suas configurações, caso tenha mexido, nos informe dizendo o problema
+- De maneira alguma podemos alterar, vizualizar ou vazar seus dados 
+- Esses patchs só pode adicionar o que for necessário
+
+D.CONTA DENTRO DO SISTEMA
   O sistema tem alguns tipos de contas que podem utilizar o computador:
 - administrador
 - criança
 - modo de segurança (em processo de desenvolvimento)
   Cada tipo de conta, tem permissões permitidas ou não. O "modo de segurança" ele é para solucionar problemas dentro do software (faça backup antes)
 
-D.CONTAS EDUCACIONAIS OU ESCOLARES
-  São contas que são para instituições escolares ou estudantes, você pode entrar em serviços com email escolares ou instituições, o local proprietário (escola ou administradores de instituição) CONSEGUE ver seus dados e o que você faz.
+E.CONTAS EDUCACIONAIS OU ESCOLARES
+  São contas que são para instituições escolares ou estudantes, você pode entrar em serviços com email escolares ou instituições, o local proprietário (escola ou administradores de instituição) CONSEGUE ver seus dados e o que você faz (caso o computador seja registrado na instituição).
 
-E.ENCERRAMENTO DE NOSSOS SERVIÇOS
+F.ENCERRAMENTO DE NOSSOS SERVIÇOS
   Você pode sair de algum serviço individual OU de todos ao mesmo tempo.
 
-F.ALTERAÇÕES DENTRO DO CONTRATO
+G.ALTERAÇÕES DENTRO DO CONTRATO
   Nós podemos atualizar o contrato, corrigir erros de português (ou para a linguagem que seja traduzida), alterar partes do contrato ou mudar completamente ele, informaremos quando for alterado, caso não concorde com o novo termo, basta desativar sua conta do sistema operacional, caso seja pai ou tutor, ajude a criança a fazer isso.
 
 obrigado, ainda está sendo desenvolvido esse termo, atualizremos caso necessário.
