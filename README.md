@@ -1,5 +1,5 @@
 
-# ONE OPERATIONAL SISTEM CREATED LEANING AT YOU.
+# ONE OPERATIONAL SISTEM CREATED FOR YOU.
 Thank you for choosing our software. To install it on your main computer, please remember the following requirements:
 
 - 2 GB of RAM
