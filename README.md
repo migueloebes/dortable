@@ -21,3 +21,7 @@ NOT AVAILABLE
 
 ## 
 CONSULT THE [doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20Doortable) for more information about your security, privacy, and basic use of the software.
+
+I want to contribute!
+
+Just contact me via [X (formerly Twitter)](https://x.com/m1gueloebes).
