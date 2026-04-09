@@ -7,7 +7,8 @@ requirements minimum
 - 20 GB of storage
 
 
-## A BRIEF WARNING
+##
+## BRIEF WARNING
 
 - Our operating system is NOT Linux; it is based on FreeBSD (Unix).
 - Our operating system is not ready!
