@@ -6,12 +6,13 @@ Thank you for choosing our software. To install it on your main computer, please
 requirements minimum
 - 2 GB of RAM
 - 20 GB of storage
-
+- 64bits our 32bits 
 
 ## BRIEF WARNING
 
 - Our operating system is NOT Linux; it is based on FreeBSD (Unix).
 - Our operating system is not ready!
+- this a 32bits is not ready!
 
 ##
 
