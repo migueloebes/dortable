@@ -2,9 +2,9 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/migueloebes?style=for-the-badge&logo=x&color=000000)](https://x.com/migueloebes) <img src="https://img.shields.io/badge/Kernel-FreeBSD_Modified-blue?style=for-the-badge" />
 
 <div align="center">
-  <h1>Portable Doortable</h1> <h2>Do everything with from Doortable!.</h2>
+  <h1>Portable Doortable</h1> <h2>Do everything with from Doortable!.</h2> 
 
-  <p><strong>A Unix-based operating system, simple to use for basic tasks, perfect for productivity.</strong></p>
+ <p><strong>A Unix-based operating system, simple to use for basic tasks, perfect for productivity.</strong></p>
 
   
 <div align="left">
