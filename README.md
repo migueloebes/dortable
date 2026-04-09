@@ -1,4 +1,4 @@
-### contact me and social network
+### contact me
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/migueloebes?style=for-the-badge&logo=x&color=000000)](https://x.com/migueloebes) 
 
 
