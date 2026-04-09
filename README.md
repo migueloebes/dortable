@@ -1,4 +1,4 @@
-### contact me and credits from FreeBSD
+### contact me, and credits from FreeBSD
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/migueloebes?style=for-the-badge&logo=x&color=000000)](https://x.com/migueloebes) <img src="https://img.shields.io/badge/Kernel-FreeBSD_Modified-blue?style=for-the-badge" />
 
 <div align="center">
