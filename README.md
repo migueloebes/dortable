@@ -1,7 +1,7 @@
 
 # ONE OPERATIONAL SISTEM CREATED FOR YOU.
 Thank you for choosing our software. To install it on your main computer, please remember the following requirements:
-<img alt="Logo" align="left" src="https://cdn.discordapp.com/attachments/1434969221284237325/1487845208640061500/412598-removebg-preview.png?ex=69d7ce54&is=69d67cd4&hm=91062dba9b8fc60b25920f082c78d57c7e53b538334ad4748c1b9d1d587376f2" width="20%" />
+<img alt="Logo" align="left" src="https://cdn.discordapp.com/attachments/1434969221284237325/1487845208640061500/412598-removebg-preview.png?ex=69d7ce54&is=69d67cd4&hm=91062dba9b8fc60b25920f082c78d57c7e53b538334ad4748c1b9d1d587376f2" width="15%" />
 - 2 GB of RAM
 - 20 GB of storage
 
