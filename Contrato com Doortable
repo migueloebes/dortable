@@ -5,13 +5,8 @@ Aviso, caso sua residência ou sua empresa seja localizado no Brasil, deverá le
 
 
 Water.br:
-O Doortable é um sistema híbrido, embora utilize parte do kernel unix, ele NÃO é código-livre 
+O Doortable é um sistema híbrido baseado em Linux, 
 
-A.LICENÇA
-  A licença de nosso software não é de código aberto, devido não conseguirmos controlar a disponibilidade de nosso Kernel, dependências, drivers ou algo do gênero. Entretanto, o partes modificadas do kernel unix (freeBSD) serão postadas para auxílio
-- Não será 100% do kernel que divulgaremos
-- Essa ação, é para desenvolvedores que querem ajudar nosso projeto, vejam e os melhore (ou corrija) partes que foram escritos errada, possa corrijir
-- Não permitiremos a distribuição do sistema MODIFICADO ou alterado, podendo perder a licença com o software (e não garantindo sua segurança)
 
 B.SEU CONTEÚDO
   Muitos conteúdos pré-instalados do sistema operacional, serve para que você crie, armazene, compartilhe ou experencie dele, não podemos te acusar extrajudicialmente, vazar ou fazer alguma coisa com seus dados (desde que fique APENAS com serviços e servidores proprietários) apenas ISSO
