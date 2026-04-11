@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Portable Doortable</h1> <h2>Do everything with from Doortable!.</h2> 
 
- <p><strong>A Unix-based operating system, simple to use for basic tasks, perfect for productivity.</strong></p>
+ <p><strong>A Linux-based operating system, simple to use for basic tasks, perfect for productivity.</strong></p>
 
   
 <div align="left">
@@ -22,8 +22,7 @@ requirements minimum
 <div align="CENTER">
 <h1>A BRIEF WARNING</h1>
   <div align="left">
-<p><strong> Our operating system is NOT Linux; it is based on FreeBSD (Unix).
-  
+
 Our operating system is not ready!
 
 this a 32bits is not ready!</strong></p>
@@ -37,6 +36,3 @@ TO INSTALL ON YOUR COMPUTER:
 NOT AVAILABLE
 
 ```
-
-## 
-CONSULT THE [doortable Agreement](https://github.com/migueloebes/doortable/blob/main/Contrato%20com%20Doortable) for more information about your security, privacy, and basic use of the software.
