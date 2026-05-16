@@ -9,7 +9,7 @@
 
   
 <div align="left">
-<img alt="Logo" align="left" src="https://cdn.discordapp.com/attachments/1434969221284237325/1487845208640061500/412598-removebg-preview.png?ex=69dbc2d4&is=69da7154&hm=009583443c5527746f479e01b620583cd58415405132f9f2c099922a3bd1276c" width="20%" />
+
 Thank you for choosing our software. To install it on your main computer, please remember the following requirements:
 
 requirements minimum
