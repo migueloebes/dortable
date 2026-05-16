@@ -15,7 +15,7 @@ Thank you for choosing our software. To install it on your main computer, please
 requirements minimum
   
 - 2 GB of RAM
-- 20 GB of storage
+- 12 GB of storage
 - 64bits our 32bits
 
 ## 
