@@ -16,7 +16,7 @@ requirements minimum
   
 - 2 GB of RAM
 - 12 GB of storage
-- 64bits our 32bits
+- 64bits 
 
 ## 
 <div align="CENTER">
